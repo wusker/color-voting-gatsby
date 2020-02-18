@@ -1,2 +1,2 @@
 # Color Voting
-Code-along with John Otander [a link](https://www.johno.com/)
+Code-along with [John Otander](https://www.johno.com/)

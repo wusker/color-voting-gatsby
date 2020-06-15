@@ -1,7 +1,7 @@
 # Color Voting
-Code-along with [John Otander](https://www.johno.com/)
+Starting Gatsby with help from [John Otander](https://www.johno.com/)
 
-Main functionality works. Need to implement data storage or simple localStorage setup.
+Main functionality works. Disregarded Firebase setup.
 
 ## Getting Started
 `yarn`
